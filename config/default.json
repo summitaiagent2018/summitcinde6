@@ -4,7 +4,7 @@
       "hostName": "customerdemo.symphonysummit.com",
       "path": "/SummitAI/DC/REST/Summit_RESTWCF.svc/RESTService/CommonWS_JsonObjCall",
       "userName": "admin@symphonysummit.com",
-      "password": "9aFKAT@5"
+      "password": "Test@1234"
     },
     "azureSearchAPI": {
       "hostName": "azuresearchsummitbotservice01.search.windows.net",
